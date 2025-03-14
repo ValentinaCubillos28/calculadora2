@@ -49,6 +49,9 @@ function App() {
         <button className="clear" onClick={handleClear}>
           C
         </button>
+        <button className="clear" onClick={handleClear}>
+          C
+        </button>
       </div>
     </div>
   );
